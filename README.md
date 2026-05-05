@@ -30,6 +30,10 @@ The goal of this project is to showcase my learning progress, technical skills, 
 - Git and GitHub
 - ChatGPT — used as a learning assistant for guidance, debugging, and project structure
 
+## Repository
+
+https://github.com/denislavyordanov/react-portfolio
+
 ## Status
 
 This project is currently in progress.
