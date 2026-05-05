@@ -9,13 +9,15 @@ function Projects() {
             A personal portfolio website built with React to showcase my skills,
             projects, and learning progress.
           </p>
-          <a
+         
+         <a 
+            className="github-button"
             href="https://github.com/DiYordanov96/E-Portfolio.git"
             target="_blank"
             rel="noreferrer"
             >
-            View on GitHub
-         </a>
+            View on GitHub →
+        </a>
         </div>
   
         <div className="project-card">
