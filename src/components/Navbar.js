@@ -2,7 +2,7 @@
 function Navbar() {
     return (
         <nav className="navbar">
-            <h2>Denislav Yordanow</h2>
+            <h2>Denislav Yordanov</h2>
 
             <ul>
                 <li> <a href="#home">Home</a></li>
